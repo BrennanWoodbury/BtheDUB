@@ -1,4 +1,4 @@
-# I'm BtheDUB
+# I'm Brennan
 
 - I am interested in python and automating processes away
 - Next project learning PHP, JS/React, MySQL. =)
