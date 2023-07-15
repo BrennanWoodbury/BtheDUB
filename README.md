@@ -1,7 +1,8 @@
 # I'm Brennan
 
-- I am interested in python and automating processes away
-- Next project learning PHP, JS/React, MySQL. =)
+Welcome to my Github, look around and listen! 
+
+I'm passionate about all things devops/software. My current project involved FastAPI and MongoDB
 
 <!---
 BtheDUB/BtheDUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
